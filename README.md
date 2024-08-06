@@ -6,15 +6,15 @@
 
 
 	
-<h2>👨🏻‍💻 **About me** </h2> 
+<h2>👨🏻‍💻 SOBRE MI </h2> 
 
 <br>
 
 - Apacionado por la tecnologia
 - 24 Años
 - Nacionalidad: Argentina
-- Portfolio [link](https://joaquin-gil-portafolio.netlify.app))
-- Estoy Disponible para cualquier trabajo que se necesite! [Mi Curriculum]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view))
+- Portfolio [link](https://joaquin-gil-portafolio.netlify.app)
+- Estoy Disponible para cualquier trabajo que se necesite! [link]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view))
 
 <br><br>
 
