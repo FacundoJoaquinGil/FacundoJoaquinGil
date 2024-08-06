@@ -10,11 +10,12 @@
 
 <br>
 
-- Apacionado por la tecnologia
-- 24 Años
-- Nacionalidad: Argentina
-- Portfolio [link](https://joaquin-gil-portafolio.netlify.app)
-- Estoy Disponible para cualquier trabajo que se necesite! [link](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view)
+- Tecnico Universitario en Programacion (UTN) 🎓
+- 24 Años 🚀
+- Apacionado por la tecnologia 💻
+- Nacionalidad: Argentina 📍
+- Portfolio [link](https://joaquin-gil-portafolio.netlify.app) 👈
+- Estoy Disponible para cualquier trabajo que se necesite! Mi Curriculum: [link](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view) 📝
 
 <br><br>
 
@@ -40,9 +41,8 @@
 <br>
 <br>
 
------
-
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <h2 justify-content: center;><b>CONTACTA CONMIGO!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
@@ -65,12 +65,17 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+<br>
+
+<li>
+<a href="https://api.whatsapp.com/send?phone=3816566750" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+</li>
 	
 </ul>
 </div>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
