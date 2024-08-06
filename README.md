@@ -14,7 +14,7 @@
 - 24 Años
 - Nacionalidad: Argentina
 - Portfolio [link](https://joaquin-gil-portafolio.netlify.app)
-- Estoy Disponible para cualquier trabajo que se necesite! [link]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view))
+- Estoy Disponible para cualquier trabajo que se necesite! [link](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view)
 
 <br><br>
 
