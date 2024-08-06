@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hola! Soy Facundo Joaquin Gil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
@@ -14,6 +13,8 @@
 - Portfolio [link](https://joaquin-gil-portafolio.netlify.app) 👈
 - Estoy Disponible para cualquier trabajo que se necesite! Mi Curriculum: [link](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view) 📝
 
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width ="350">
+
 <br>
 <br>
 
@@ -23,8 +24,8 @@
 <br>
 
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-<b> HABILIDADES TECNICAS</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
+<b>HABILIDADES TECNICAS</b>
 </h2>
 
 <br>
