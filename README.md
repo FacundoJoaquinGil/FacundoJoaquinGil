@@ -6,12 +6,21 @@
 
 <br>
 
+<div>
+	
 - Tecnico Universitario en Programacion (UTN) 🎓
+
 - 24 Años 🚀
+
 - Apacionado por la tecnologia 💻
+	
 - Nacionalidad: Argentina 📍
+	
 - Portfolio [link](https://joaquin-gil-portafolio.netlify.app) 👈
+	
 - Estoy Disponible para cualquier trabajo que se necesite! Mi Curriculum: [link](https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view) 📝
+	
+</div>
 
 <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width ="350">
 
