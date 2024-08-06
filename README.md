@@ -11,12 +11,12 @@
     <tr>
       <td>
         <div>
-          - Tecnico Universitario en Programacion (UTN) 🎓<br>
-          - 24 Años 🚀<br>
-          - Apacionado por la tecnologia 💻<br>
-          - Nacionalidad: Argentina 📍<br>
-          - Portfolio <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
-          - Mi Curriculum: <a href="https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view">link</a> 📝
+          • Tecnico Universitario en Programacion (UTN) 🎓<br>
+          • 24 Años 🚀<br>
+          • Apacionado por la tecnologia 💻<br>
+          • Nacionalidad: Argentina 📍<br>
+          • Portfolio <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
+          • Mi Curriculum: <a href="https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view">link</a> 📝
         </div>
       </td>
       <td>
@@ -67,30 +67,24 @@
 
 <div align='left'>
 
-<ul>
-
-<li>
 <a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/facundo-joaqu%C3%ADn-gil-21b3a3303/)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
+<br>
 
-<li>
 <a href="mailto:facundojoagl@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
 <br>
+<br>
 
-<li>
 <a href="https://api.whatsapp.com/send?phone=3816566750" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
+</a>	
+
 </div>
 
