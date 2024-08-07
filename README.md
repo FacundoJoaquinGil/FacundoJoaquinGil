@@ -11,27 +11,30 @@
 
 <br>
 
-<div align="center"> 
-  <table>
-    <tr>
-      <td>
-        <div>
-          • Tecnico Universitario en Programacion (UTN) 🎓<br>
-          • 24 Años 🚀<br>
-          • Apacionado por la tecnologia 💻<br>
-          • Nacionalidad: Argentina 📍<br>
-          • Portfolio <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
-          • Mi Curriculum: <a href="https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view">link</a> 📝
-        </div>
-      </td>
-      <td>
-        <div>
-          <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="300">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table  align="center">
+	
+<tr>
+	
+<td>	
+	
+• Tecnico Universitario en Programacion (UTN) 🎓<br>
+• 24 Años 🚀<br>
+• Apacionado por la tecnologia 💻<br>
+• Nacionalidad: Argentina 📍<br>
+• Portfolio <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
+• Mi Curriculum: <a href="https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view">link</a> 📝
+
+</td>
+
+<td>
+	
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="300">       
+</td>
+
+</tr>
+
+</table>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
