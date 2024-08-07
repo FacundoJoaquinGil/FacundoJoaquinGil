@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola! Soy Facundo Joaquin Gil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Bienvenidos! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
@@ -26,7 +26,7 @@
       </td>
       <td>
         <div>
-          <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="350">
+          <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="300">
         </div>
       </td>
     </tr>
@@ -66,7 +66,7 @@
 
 <br>
 
-<h2><b>CONTACTA CONMIGO!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<h2><b>📞 CONTACTA CONMIGO</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
 
 <br>
 
