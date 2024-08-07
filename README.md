@@ -21,7 +21,7 @@
 • 24 Años 🚀<br>
 • Apacionado por la tecnologia 💻<br>
 • Nacionalidad: Argentina 📍<br>
-• Portfolio <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
+• Mi Portfolio: <a href="https://joaquin-gil-portafolio.netlify.app">link</a> 👈<br>
 • Mi Curriculum: <a href="https://drive.google.com/file/d/1oKxt5R6lrdq6Tu5GeNszw1njYCMTF_-y/view">link</a> 📝
 
 </td>
