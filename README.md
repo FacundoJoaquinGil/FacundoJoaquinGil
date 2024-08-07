@@ -1,7 +1,12 @@
 <h1 align="center"><b>Hola! Soy Facundo Joaquin Gil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+
+![Banner Github](https://github.com/user-attachments/assets/2b17c601-9e85-490d-82e2-54e7d4f0c1d2)
+
 <br>
 	
+
 <h2>👨🏻‍💻 SOBRE MI </h2> 
 
 <br>
