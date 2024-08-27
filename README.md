@@ -22,7 +22,7 @@
 • Apacionado por la tecnologia 💻<br>
 • Nacionalidad: Argentina 📍<br>
 • Mi Portfolio: <a href="https://joaquin-gil-portafolio.netlify.app" target="_blank">CLICK AQUI</a>👈<br>
-• Mi Curriculum: <a href="https://docs.google.com/document/d/1SP_2jNd31QCnnPmZ_pE4LR3GcyQX0ga_choFVIuz47g/edit?usp=sharing" target="_blank">CLICK AQUI</a>👈📝
+• Mi Curriculum: <a href="https://drive.google.com/file/d/1v_Ed9QTICWOH38TYXIprfms3S7bumI4U/view?usp=sharing" target="_blank">CLICK AQUI</a>👈📝
 
 </td>
 
