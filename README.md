@@ -18,7 +18,7 @@
 <td>	
 	
 • Tecnico Universitario en Programacion (UTN) 🎓<br>
-• 24 Años 🚀<br>
+• 25 Años 🚀<br>
 • Apacionado por la tecnologia 💻<br>
 • Nacionalidad: Argentina 📍<br>
 • Mi Portfolio: <a href="https://joaquin-gil-portafolio.netlify.app" target="_blank">CLICK AQUI</a>👈<br>
