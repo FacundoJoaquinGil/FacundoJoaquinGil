@@ -1,9 +1,5 @@
 <h1 align="center"><b>Bienvenidos! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
-![Banner Github](https://github.com/user-attachments/assets/2b17c601-9e85-490d-82e2-54e7d4f0c1d2)
-
 <br>
 	
 
@@ -13,19 +9,14 @@
 
 <table  align="center">
 	
-<tr>
-	
-<td>	
-	
+
 • Tecnico Universitario en Programacion (UTN) 🎓<br>
 • 25 Años 🚀<br>
 • Apacionado por la tecnologia 💻<br>
 • Nacionalidad: Argentina 📍<br>
 • Mi Portfolio: <a href="https://joaquin-gil-portafolio.netlify.app" target="_blank">CLICK AQUI</a>👈<br>
 
-</td>
 
-<td>
 	
 <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="300">       
 </td>
