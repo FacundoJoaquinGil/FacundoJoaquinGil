@@ -1,42 +1,34 @@
-<h1 align="center"><b>Hi there, I'm Facundo Joaquin Gil!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm Facundo Joaquin Gil! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
-<h3>About Me</h2>
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
 
-<p>
-  I'm a 25-year-old programmer from Argentina.  
-  I graduated as a <strong>Technical University Programmer</strong> from <strong>Universidad Tecnológica Nacional de Tucumán</strong> in 2024.  
-  Passionate about technology, I enjoy exploring both software and hardware, always eager to learn and improve my skills.  
-</p>
+<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me</h2>
 
-## 🌱 Currently learning...  
-- TypeScript & Angular 
-- .NET & C# with SQLite  
+"I am 25 years old and a Technical University Programmer, graduated from Universidad Tecnológica Nacional de Tucumán in 2024.
+I am passionate about technology, always eager to learn and improve my skills, exploring both software and hardware.
+Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and 📖 reading science books."
 
-👯 Looking forward to collaborating on...  
-- Open-source projects, Web applications & management systems  
-
-✔ Ask me about...  
-- Frontend development with **React.js** & **Angular**  
-- Backend with **Node.js** & **SQL**
-
-## 📫 Reach me at...  
-- 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
-- 🌍 **[Portfolio](https://joaquin-gil-portafolio.netlify.app)**  
+- <strong>🌱 I’m currently learning ...</strong>
+  - TypeScript & Angular 
+- 👯 I’m looking forward to collaborating on open-source projects, web applications & management systems.
+- <strong>✔ Ask me about</strong>
+  - frontend development with **React.js** & **Angular**
+  - backend with **Node.js** & **SQL**.   
+- <strong>📫 Reach out to me at: </strong> 
+  - 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
+  - 🌍 **[Portfolio](https://joaquin-gil-portafolio.netlify.app)**  
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-<br>
+
 
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 <b>Skills</b>
 </h2>
-
-<br>
 <br>
 
 <div align="center">
@@ -66,7 +58,7 @@
 
 <br>
 
-<h2><b>📞 Contact With Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<h2><b>📞 Contact Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
 
 <br>
 
