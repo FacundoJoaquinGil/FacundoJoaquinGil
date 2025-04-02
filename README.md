@@ -1,10 +1,9 @@
 <h1 align="center"><b>Hi there, I'm Facundo Joaquin Gil! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
 
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me</h2>
+<img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
 
 "I am 25 years old and a Technical University Programmer, graduated from Universidad Tecnológica Nacional de Tucumán in 2024.
 I am passionate about technology, always eager to learn and improve my skills, exploring both software and hardware.
@@ -56,7 +55,6 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
 
 <h2><b>📞 Contact Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
 
