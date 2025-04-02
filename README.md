@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm Facundo Joaquin Gil!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
 <h3>About Me</h2>
 
-<p align="left">
+<p>
   I'm a 25-year-old programmer from Argentina.  
   I graduated as a <strong>Technical University Programmer</strong> from <strong>Universidad Tecnológica Nacional de Tucumán</strong> in 2024.  
   Passionate about technology, I enjoy exploring both software and hardware, always eager to learn and improve my skills.  
@@ -14,11 +14,10 @@
 - TypeScript & Angular 
 - .NET & C# with SQLite  
 
-## 👯 Looking forward to collaborating on...  
-- Open-source projects  
-- Web applications & management systems  
+👯 Looking forward to collaborating on...  
+- Open-source projects, Web applications & management systems  
 
-## ✔ Ask me about...  
+✔ Ask me about...  
 - Frontend development with **React.js** & **Angular**  
 - Backend with **Node.js** & **SQL**
 
