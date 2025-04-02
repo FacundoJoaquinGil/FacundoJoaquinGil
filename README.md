@@ -1,30 +1,30 @@
-<h1 align="center"><b>Bienvenidos! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br>
-	
-
-<h2>👨🏻‍💻 SOBRE MI </h2> 
+<h1 align="center"><b>Hi there!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
-<table  align="center">
-	
+<h3>About Me</h2>
 
-• Tecnico Universitario en Programacion (UTN) 🎓<br>
-• 25 Años 🚀<br>
-• Apacionado por la tecnologia 💻<br>
-• Nacionalidad: Argentina 📍<br>
-• Mi Portfolio: <a href="https://joaquin-gil-portafolio.netlify.app" target="_blank">CLICK AQUI</a>👈<br>
+<p align="left">
+  I'm a 25-year-old programmer from Argentina.  
+  I graduated as a <strong>Technical University Programmer</strong> from <strong>Universidad Tecnológica Nacional de Tucumán</strong> in 2024.  
+  Passionate about technology, I enjoy exploring both software and hardware, always eager to learn and improve my skills.  
+</p>
 
+## 🌱 Currently learning...  
+- TypeScript & Angular 
+- .NET & C# with SQLite  
 
-	
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" width="300">       
-</td>
+## 👯 Looking forward to collaborating on...  
+- Open-source projects  
+- Web applications & management systems  
 
-</tr>
+## ✔ Ask me about...  
+- Frontend development with **React.js** & **Angular**  
+- Backend with **Node.js** & **SQL**
 
-</table>
-
+## 📫 Reach me at...  
+- 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
+- 🌍 **[Portfolio](https://joaquin-gil-portafolio.netlify.app)**  
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -34,7 +34,7 @@
 
 <h2>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
-<b>HABILIDADES TECNICAS</b>
+<b>Skills</b>
 </h2>
 
 <br>
@@ -67,7 +67,7 @@
 
 <br>
 
-<h2><b>📞 CONTACTA CONMIGO</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
+<h2><b>📞 Contact With Me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h2>
 
 <br>
 
