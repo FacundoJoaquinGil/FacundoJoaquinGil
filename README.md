@@ -2,7 +2,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> About me</h2>
+<h2>❗About me</h2>
 <img align="right" width=300px alt="Unicorn" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif?raw=true" />
 
 "I am 25 years old and a <strong>Technical University Programmer</strong>, graduated from <strong>Universidad Tecnológica Nacional de Tucumán</strong> in 2024.
