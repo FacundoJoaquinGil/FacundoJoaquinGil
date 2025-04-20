@@ -11,7 +11,7 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 
 - <strong>🌱 I’m currently learning ...</strong>
   - TypeScript & Angular 
-- 👯 I’m looking forward to collaborating on open-source projects, web applications & management systems.
+- 👯 I’m looking forward to collaborating on open-source projects, web applications & management systems
 - <strong>✔ Ask me about</strong>
   - frontend development with **React.js** & **Angular**
   - backend with **Node.js** & **SQL**.   
