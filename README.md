@@ -78,8 +78,21 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 <br>
 
 <a href="https://api.whatsapp.com/send?phone=3816566750" target="_blank">
+
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
 </a>	
+
+<br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/MatuqE">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacundoJoaquinGil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/MatuqE">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacundoJoaquinGil&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 </div>
 
