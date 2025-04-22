@@ -86,10 +86,10 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 <br>
 
 <p align="center">
-  <a href="https://github.com/MatuqE">
+  <a href="https://github.com/FacundoJoaquinGil">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacundoJoaquinGil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MatuqE">
+  <a href="https://github.com/FacundoJoaquinGil">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacundoJoaquinGil&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
