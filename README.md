@@ -52,6 +52,20 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 </div>
 
 <br>
+<br>
+
+<p align="center">
+  <a href="https://github.com/FacundoJoaquinGil">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacundoJoaquinGil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/FacundoJoaquinGil">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacundoJoaquinGil&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -82,17 +96,5 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
 </a>	
 
-<br>
-<br>
 
-<p align="center">
-  <a href="https://github.com/FacundoJoaquinGil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FacundoJoaquinGil&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/FacundoJoaquinGil">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FacundoJoaquinGil&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
-</div>
 
