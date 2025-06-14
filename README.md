@@ -19,7 +19,7 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
   - 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
   - 🌍 **[Portfolio](https://joaquin-gil-portafolio.netlify.app)**
 
-![](https://komarev.com/ghpvc/?username=FacundoJoaquinGi)
+![](https://komarev.com/ghpvc/?username=FacundoJoaquinGi&base=1000)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
