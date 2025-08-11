@@ -14,7 +14,7 @@ Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and �
 - 👯 I’m looking forward to collaborating on open-source projects, web applications & management systems
 - <strong>✔ Ask me about</strong>
   - frontend development with **React.js** & **Angular**
-  - backend with **Node.js** & **SQL**   
+  - backend with **Node.js** & **C#**   
 - <strong>📫 Reach out to me at: </strong> 
   - 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
   - 🌍 **[Portfolio](https://joaquin-gil-portafolio.netlify.app)**
