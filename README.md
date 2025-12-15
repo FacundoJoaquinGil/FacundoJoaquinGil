@@ -9,11 +9,9 @@ I am 25 years old and a <strong>Technical University Programmer</strong>, gradua
 I am passionate about technology, always eager to learn and improve my skills, exploring both software and hardware.
 Outside tech, I enjoy 🎮 playing video games, 🎵 listening to music, and 📖 reading science books
 
-- <strong>🌱 I’m currently learning ...</strong>
-  - TypeScript & Angular 
 - 👯 I’m looking forward to collaborating on open-source projects, web applications & management systems
 - <strong>✔ Ask me about</strong>
-  - frontend development with **React.js** & **Angular**
+  - frontend development with **React.js**
   - backend with **Node.js** & **C#**   
 - <strong>📫 Reach out to me at: </strong> 
   - 📩 **[LinkedIn](https://www.linkedin.com/in/joaquín-gil)**  
